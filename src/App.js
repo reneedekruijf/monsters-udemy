@@ -16,6 +16,9 @@ class App extends Component {
         },
         {
           name: 'Zombie'
+        },
+        {
+          name: 'Zombie'
         }
       ]
     }
